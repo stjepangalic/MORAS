@@ -1,0 +1,22 @@
+CHIP RoundToPow {
+    IN in[16];
+    OUT out[16];
+
+    PARTS:
+Mux16(a = false , b[0] = true, b[1..15] = false, sel = in[0], out = o1);
+Mux16(a = o1, b[1] = true, b[0] = false, b[2..15] = false, sel = in[1],out = o2);
+Mux16(a = o2, b[2] = true, b[0..1] = false, b[3..15] = false, sel = in[2],out = o3);
+Mux16(a = o3, b[3] = true, b[0..2] = false, b[4..15] = false, sel = in[3],out = o4);
+Mux16(a = o4, b[4] = true, b[0..3] = false, b[5..15] = false, sel = in[4],out = o5);
+Mux16(a = o5, b[5] = true, b[0..4] = false, b[6..15] = false, sel = in[5],out = o6);
+Mux16(a = o6, b[6] = true, b[0..5] = false, b[7..15] = false, sel = in[6],out = o7);
+Mux16(a = o7, b[7] = true, b[0..6] = false, b[8..15] = false,sel = in[7], out = o8);
+Mux16(a = o8, b[8] = true, b[0..7] = false, b[9..15] = false,sel = in[8], out = o9);
+Mux16(a = o9, b[9] = true, b[0..8] = false, b[10..15] = false, sel = in[9],out = o10);
+Mux16(a = o10, b[10] = true, b[0..9] = false, b[11..15] = false, sel = in[10],out = o11);
+Mux16(a = o11, b[11] = true, b[0..10] = false, b[12..15] = false,sel = in[11], out = o12);
+Mux16(a = o12, b[12] = true, b[0..11] = false, b[13..15] = false, sel = in[12],out = o13);
+Mux16(a = o13, b[13] = true, b[0..12] = false, b[14..15] = false, sel = in[13],out = o14);
+Mux16(a = o14, b[14] = true, b[0..13] = false, b[15] = false, sel = in[14],out = o15);
+Mux16(a = o15, b[15] = true, b[0..14] = false, sel = in[15],out = out);
+}
