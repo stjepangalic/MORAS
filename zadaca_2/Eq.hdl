@@ -1,0 +1,14 @@
+CHIP Eq{
+	//Eq chip ce mi pomoci u isPalindrome
+	IN a, b;
+	OUT out;
+
+	PARTS:
+Not(in = a, out = na);
+Not(in = b, out = nb);
+
+And(a = a, b = b, out = aandb);
+And(a = na, b = nb, out = naandnb);
+
+Or(a = aandb, b = naandnb, out = out);
+}
