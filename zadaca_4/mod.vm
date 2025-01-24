@@ -1,0 +1,17 @@
+function Mod 2
+    push argument 1
+    pop local 0
+
+    label loop_start
+    push argument 0
+    push local 0
+    lt
+    if-goto END
+    push argument 0
+    push local 0
+    sub
+    pop argument 0
+    goto loop_start
+    label END
+    push argument 0
+    return
