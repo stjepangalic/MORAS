@@ -1,0 +1,50 @@
+Koliko je dugacak tunel ucka|1333 metara|2525 metara|6066 metara|5062 metara|d
+Koje godine je srušen Berlinski zid|1975|1981|1989|1991|c
+Tko je napisao roman "Sto godina samoće"|Mario Vargas Llosa|Gabriel García Márquez|Pablo Neruda|Isabel Allende|b
+Koji je kemijski simbol za srebro|Ag|Si|Au|Sr|a
+Koji je grčki bog mora|Ares|Zeus|Posejdon|Hades|c
+Koja država ima najviše službenih jezika|Indija|Švicarska|Južnoafrička Republika|Kanada|c
+U kojem se gradu nalazi dvorac Alhambra|Sevilla|Granada|Madrid|Toledo|b
+Tko je autor slike „Zvjezdana noć“|Monet|Van Gogh|Cézanne|Matisse|b
+Koji je element najzastupljeniji u Zemljinoj kori|Željezo|Kisik|Ugljik|Silicij|b
+Koja je najstarija svjetska religija|Budizam|Zoroastrizam|Hinduizam|Judaizam|c
+Tko je napisao djelo „Kritika čistog uma“|Kant|Descartes|Hegel|Locke|a
+Kojim pismom je napisana egipatska Knjiga mrtvih|Latinično|Ćirilično|Hijeroglifi|Feničko|c
+Koja država je prva priznala Hrvatsku 1991.|Austrija|Njemačka|Slovenija|Vatikan|c
+Tko je bio rimski bog rata|Zeus|Ares|Mars|Hermes|c
+Koliko kromosoma ima čovjek|42|44|46|48|c
+Koja književna epoha uključuje Dantea, Petrarcu i Boccaccia|Barok|Humanizam|Renesansa|Romantizam|c
+Tko je bio posljednji egipatski faraon|Tutankamon|Ramses II|Kleopatra VII|Nefertiti|c
+Koji se fizičar smatra „ocem moderne fizike“|Galileo Galilei|Isaac Newton|Albert Einstein|Niels Bohr|b
+Koji grad se naziva „Venecija sjevera“|Amsterdam|Stockholm|Sankt Peterburg|Kopenhagen|c
+Koja rijeka je najduža na svijetu|Nil|Amazonas|Mississippi|Volga|b
+Koja je država domaćin najviše ljetnih Olimpijskih igara|SAD|Francuska|Grčka|Ujedinjeno Kraljevstvo|a
+Koji jezik je službeni u Iranu|Arapski|Turski|Perzijski|Kurdski|c
+Tko je skladao operu „Čarobna frula“|Beethoven|Mozart|Wagner|Haydn|b
+Koja je najmanja kost u ljudskom tijelu|Stremen|Palčana kost|Čekić|Stopalna kost|a
+U kojoj državi se nalazi Machu Picchu|Čile|Peru|Bolivija|Meksiko|b
+Tko je autor teorije prirodne selekcije|Darwin|Lamarck|Mendel|Pasteur|a
+Koja se valuta koristila u Njemačkoj prije eura|Šiling|Funta|Marka|Lira|c
+Koja filozofkinja je napisala „Drugi spol“|Hannah Arendt|Simone de Beauvoir|Mary Wollstonecraft|Rosa Luxemburg|b
+Kojim jezikom je napisan roman „Rat i mir“|Francuskim|Njemačkim|Ruskim|Ukrajinskim|c
+Tko je bio prvi čovjek u svemiru|Neil Armstrong|Jurij Gagarin|John Glenn|Valentina Tereškova|b
+Koja planina se nalazi na granici između Nepala i Kine|Kilimanjaro|Elbrus|Everest|K2|c
+Koji znanstvenik je otkrio penicilin|Louis Pasteur|Alexander Fleming|Marie Curie|Joseph Lister|b
+Koji je najviši vulkan na svijetu|Etna|Mauna Loa|Kilimanjaro|Cotopaxi|b
+Tko je autor romana „Zločin i kazna“|Tolstoj|Čehov|Dostojevski|Gorki|c
+Koji je glavni grad Etiopije|Nairobi|Addis Abeba|Kigali|Kairo|b
+Koja godina se smatra početkom Prvog svjetskog rata|1912|1914|1916|1918|b
+Koji kemijski element ima oznaku W|Wolfram|Vanadij|Volfram|Bizmut|a
+Koji jezik se govori u Izraelu uz arapski|Engleski|Grčki|Hebrejski|Turski|c
+Koji matematičar je poznat po teoremu o pravokutnom trokutu|Arhimed|Pitágora|Descartes|Euklid|b
+Koji je najdublji ocean na Zemlji|Atlantski|Tihi|Indijski|Arktički|b
+Koja je najstarija sveučilišna ustanova u Europi|Oxford|Sorbonne|Bologna|Cambridge|c
+Koji planet ima najviše mjeseca|Jupiter|Saturn|Neptun|Uran|b
+Tko je napisao ep „Božanstvena komedija“|Goethe|Homer|Dante Alighieri|Vergilije|c
+Koja je valuta Japana|Won|Jen|Juan|Ringgit|b
+Koji je glavni grad Kazahstana|Taškent|Astana (Nur-Sultan)|Baku|Biškek|b
+Koji jezik koristi najviše riječi|Engleski|Mandarinski|Ruski|Arapski|a
+Koja je poznata književnica napisala „Ponos i predrasude“|Charlotte Brontë|Jane Austen|Emily Dickinson|Virginia Woolf|b
+Koji fizičar je poznat po zakonima gibanja|Galileo Galilei|Isaac Newton|Niels Bohr|Max Planck|b
+U kojem se gradu nalazi Taj Mahal|Delhi|Agra|Jaipur|Mumbai|b
+Koji je prvi element u periodnom sustavu|Helij|Litij|Vodik|Kisik|c
